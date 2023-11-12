@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**notfishvr6969/notfishvr6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+    <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1171329905137557524?showBanner=false&showID=false" /><br>
+    <h3 style="margin: 5px 0;">Hi, I'm notfishvr 👋</h3>
+    <p style="margin: 5px 0; font-size: 16px;">I'm a 13-year-old mostly self-taught programmer I am able to <br>write in multiple languages such as C#, JS, HTML, and CSS.</p>
+    <h3 style="margin: 10px 0;">Links:</h3>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://notfishvr.dev" target="_blank">Website</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://github.com/official-notfishvr" target="_blank">GitHub (official)</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://github.com/notfishvr6969" target="_blank">GitHub (personal)</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://www.youtube.com/@notfishvr" target="_blank">Youtube</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://discord.gg/nikomods" target="_blank">Discord (4k Members)</a></p>
+</div>
