@@ -4,7 +4,9 @@
 <div align="center">
   <p>self taught programmer</p>
 </div>
-<img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1180973205658275982?showBanner=false&showID=false" /><br>
+<div align="center">
+  <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1180973205658275982?showBanner=false&showID=false" /><br>
+</div>
 
 ## GitHub Stats
 
