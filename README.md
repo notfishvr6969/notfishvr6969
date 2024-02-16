@@ -22,6 +22,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-notfishvr&theme=highcontrast" alt="Your Top Languages" />
 </div>
 
+## Links
+
+</div>
+    <h3 style="margin: 10px 0;">Links:</h3>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://notfishvr.dev" target="_blank">Website</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://github.com/official-notfishvr" target="_blank">GitHub (official)</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://github.com/notfishvr6969" target="_blank">GitHub (personal)</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://www.youtube.com/@notfishvr" target="_blank">Youtube</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://discord.gg/nikomods" target="_blank">Discord (4k Members)</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://cash.app/$notfishvr69" target="_blank">Cash App</a></p>
+</div>
 
 <div align="center">
   <p>If you'd like to support my work, consider staring my projects!</p>
