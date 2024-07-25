@@ -11,15 +11,15 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=official-notfishvr&theme=highcontrast&show_icons=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notfishvr6969&theme=highcontrast&show_icons=true" alt="Your GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-notfishvr&theme=highcontrast" alt="Your GitHub Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notfishvr6969&theme=highcontrast" alt="Your GitHub Contributions" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-notfishvr&theme=highcontrast" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfishvr6969&theme=highcontrast" alt="Your Top Languages" />
 </div>
 
 ## Links
